@@ -22,7 +22,7 @@ print("Eigen values are",eigenvalues,"and Eigen Vectors are",eigenvectors)
 ```
 
 ## Output:
-![exp 4 maths](https://github.com/user-attachments/assets/ad02f5a2-49d9-415e-b879-a6d7a366fadb)
+![exp 4 maths](exp%204.maths.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
